@@ -1,6 +1,7 @@
 package Math::BaseMulti;
 
 use Moose;
+# VERSION
 
 has 'digits' => (
 	is => 'ro',
