@@ -1,4 +1,5 @@
 package Math::BaseMulti;
+# ABSTRACT: creating identifiers with a per digit base
 
 use Moose;
 # VERSION
